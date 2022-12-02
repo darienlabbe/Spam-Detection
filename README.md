@@ -6,4 +6,4 @@ The Naïve Bayes Spam Filter equation takes the probability of a spam occurring 
 The conditional probability (P(A/B)) is what then determines if the email is considered to be spam or not spam.
 
 #Spam-Detection: Project Structure
-The SpamDetectionProject.cpp file contains all of the source code for this project. The 20 ".txt" files are to be used in tandem with the source code. The program prompts the user to input the name of the files exactly in the order of: training data, training class, test data and test class. With those file names, the project will then open the files, and run the Naïve Bayes equation to determine a spam or ham email.
+The SpamDetectionProject.cpp file contains all of the source code for this project. The twenty ".txt" files are to be used in tandem with the source code. The program prompts the user to input the name of the files exactly in the order of: training data, training class, test data and test class. With those file names, the project will then open the files, and run the Naïve Bayes equation to determine a spam or ham email.
